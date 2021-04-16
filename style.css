@@ -1,0 +1,36 @@
+body{
+    background-color: #e0fbfc ;
+  }
+  .nome{
+    font-family:monospace;
+    font-size: 16px;
+  }
+  .sobre{
+    font-family:monospace;
+    font-size: 16px;
+     
+  }
+  .photo{
+  background-color: blue;
+  }
+
+  p{
+    font-size:16px;
+  }
+  .Org{
+    font-size: 22px;
+
+  }
+  .Est{
+    font-size: 22px;
+
+  }
+  .Foc{
+    font-size: 22px ;
+
+  }
+  .Ing{
+    font-size: 22px;
+
+  }
+ 
