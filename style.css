@@ -2,16 +2,38 @@ body{
     background-color: #e0fbfc ;
   }
   .nome{
+    border-radius: 8px;
+    background-color: #3D5A80;
     font-family:monospace;
     font-size: 16px;
+    text-align: center;
+    padding:7px;
+    
   }
   .sobre{
     font-family:monospace;
     font-size: 16px;
-     
+    margin-top: 40px;
+    float:right;
+    margin-right:500px;
+    width: 500px;
+    
   }
-  .photo{
-  background-color: blue;
+  .photo {
+  width: 200px;  
+  border-radius: 10px;
+  left: 30px;
+  margin-top: 30px;
+  padding: 5px;
+  background-color: #98C1D9;
+
+  }
+  
+  img.redes{
+    position: absolute;
+    right: 20px;
+    
+
   }
 
   p{
