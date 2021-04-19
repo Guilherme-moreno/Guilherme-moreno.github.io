@@ -11,16 +11,16 @@ body{
     
   }
   .sobre{
+    margin: 50px;
+    width: 50%;
     font-family:monospace;
     font-size: 16px;
-    margin-top: 40px;
-    float:right;
-    margin-right:500px;
-    width: 500px;
-    
+    background-color: azure;
+
   }
   .photo {
-  width: 200px;  
+  float: left;
+  width:170px; 
   border-radius: 10px;
   left: 30px;
   margin-top: 30px;
@@ -36,23 +36,13 @@ body{
 
   }
 
-  p{
-    font-size:16px;
+  .habilidades{
+    margin-top: 100px;
+    text-align:justify;
   }
-  .Org{
+  
+  .Org,.Est,.Foc,.Ing{
     font-size: 22px;
-
+    
   }
-  .Est{
-    font-size: 22px;
-
-  }
-  .Foc{
-    font-size: 22px ;
-
-  }
-  .Ing{
-    font-size: 22px;
-
-  }
- 
+  
